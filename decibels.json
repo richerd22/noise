@@ -1,0 +1,497 @@
+[
+ {
+  "db": 65.0,
+  "metric": "DNL",
+  "name": "US airport noise threshold",
+  "detail": "yearly average; homes, schools, hospitals incompatible at or above",
+  "kind": "limit",
+  "section": "aircraft",
+  "key": "avn-seattle-part150"
+ },
+ {
+  "db": 82.0,
+  "metric": "dB LAFmax",
+  "name": "Small drone takeoff",
+  "detail": "at 10 m (33 ft)",
+  "kind": "example",
+  "section": "aircraft",
+  "key": "avn-frontiers-drone"
+ },
+ {
+  "db": 48.0,
+  "metric": "dB LAFmax",
+  "name": "Small drone overflight",
+  "detail": "at 60 m altitude, mic about 40 m from flight path",
+  "kind": "example",
+  "section": "aircraft",
+  "key": "avn-frontiers-drone"
+ },
+ {
+  "db": 53.0,
+  "metric": "dB LAeq",
+  "name": "Urban background soundscape",
+  "detail": "ambient average, UK listening study",
+  "kind": "example",
+  "section": "aircraft",
+  "key": "avn-frontiers-drone"
+ },
+ {
+  "db": 35.0,
+  "metric": "dB LAeq",
+  "name": "Rural background soundscape",
+  "detail": "ambient average, UK listening study",
+  "kind": "example",
+  "section": "aircraft",
+  "key": "avn-frontiers-drone"
+ },
+ {
+  "db": 0.0,
+  "metric": "dB SPL",
+  "name": "Threshold of hearing",
+  "detail": "20 micropascals, reference level",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-fhwa-barrier-handbook"
+ },
+ {
+  "db": 30.0,
+  "metric": "dB (weighting not stated)",
+  "name": "Whisper",
+  "detail": "audiology chart, distance not stated",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-audiology-chart"
+ },
+ {
+  "db": 40.0,
+  "metric": "dB (weighting not stated)",
+  "name": "Quiet library",
+  "detail": "audiology chart, distance not stated",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-audiology-chart"
+ },
+ {
+  "db": 50.0,
+  "metric": "dB (weighting not stated)",
+  "name": "Moderate rainfall",
+  "detail": "audiology chart, distance not stated",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-audiology-chart"
+ },
+ {
+  "db": 60.0,
+  "metric": "dB (weighting not stated)",
+  "name": "Normal conversation",
+  "detail": "audiology chart, distance not stated",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-audiology-chart"
+ },
+ {
+  "db": 60.0,
+  "metric": "dB (weighting not stated)",
+  "name": "Single vehicle pass-by",
+  "detail": "at 15 m (50 ft)",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-fhwa-barrier-handbook"
+ },
+ {
+  "db": 70.0,
+  "metric": "dB (weighting not stated)",
+  "name": "Traffic; vacuum cleaner",
+  "detail": "audiology chart, distance not stated",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-audiology-chart"
+ },
+ {
+  "db": 85.0,
+  "metric": "dBA",
+  "name": "Lawn mower, vacuum, power tools",
+  "detail": "about 85-90 dBA; raised voice needed at about 3 ft",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-niosh-nihl"
+ },
+ {
+  "db": 85.0,
+  "metric": "dBA TWA",
+  "name": "NIOSH recommended exposure limit",
+  "detail": "8-hour average, 3 dB exchange rate",
+  "kind": "limit",
+  "section": "basics",
+  "key": "bas-niosh-nihl"
+ },
+ {
+  "db": 95.0,
+  "metric": "dBA",
+  "name": "Bars, nightclubs, chain saws, sirens",
+  "detail": "shouting needed at about 3 ft",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-niosh-nihl"
+ },
+ {
+  "db": 100.0,
+  "metric": "dB (weighting not stated)",
+  "name": "Earbuds at full volume; snowmobile",
+  "detail": "audiology chart, distance not stated",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-audiology-chart"
+ },
+ {
+  "db": 110.0,
+  "metric": "dB (weighting not stated)",
+  "name": "Concert; car horn",
+  "detail": "audiology chart, distance not stated",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-audiology-chart"
+ },
+ {
+  "db": 120.0,
+  "metric": "dB (weighting not stated)",
+  "name": "Jet plane at takeoff",
+  "detail": "audiology chart, distance not stated",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-audiology-chart"
+ },
+ {
+  "db": 130.0,
+  "metric": "dB (weighting not stated)",
+  "name": "Jackhammer",
+  "detail": "audiology chart, distance not stated",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-audiology-chart"
+ },
+ {
+  "db": 140.0,
+  "metric": "dB SPL",
+  "name": "Threshold of pain",
+  "detail": "200 million micropascals, reference level",
+  "kind": "example",
+  "section": "basics",
+  "key": "bas-fhwa-barrier-handbook"
+ },
+ {
+  "db": 50.0,
+  "metric": "dBA",
+  "name": "Boston night limit",
+  "detail": "City Code 16-26, 11 p.m.-7 a.m.",
+  "kind": "limit",
+  "section": "boston",
+  "key": "bos-hearing-order"
+ },
+ {
+  "db": 101.0,
+  "metric": "dBA Lmax",
+  "name": "Impact pile driver, measured on the Big Dig",
+  "detail": "at 50 ft, average of 11 samples",
+  "kind": "example",
+  "section": "boston",
+  "key": "bos-fhwa-rcnm"
+ },
+ {
+  "db": 90.0,
+  "metric": "dBA TWA",
+  "name": "OSHA legal limit (PEL)",
+  "detail": "8-hour exposure, 5 dB exchange rate",
+  "kind": "limit",
+  "section": "health",
+  "key": "hea-osha-noise"
+ },
+ {
+  "db": 100.0,
+  "metric": "dB LAeq,15min",
+  "name": "WHO safe listening venue cap",
+  "detail": "Average over any 15 minutes (2022 standard)",
+  "kind": "limit",
+  "section": "health",
+  "key": "hea-who-venues-infographic"
+ },
+ {
+  "db": 140.0,
+  "metric": "dB peak",
+  "name": "OSHA impulse noise ceiling",
+  "detail": "Peak sound pressure level",
+  "kind": "limit",
+  "section": "health",
+  "key": "hea-ecfr-1910-95"
+ },
+ {
+  "db": 90.0,
+  "metric": "dBA Lmax",
+  "name": "Concrete saw",
+  "detail": "at 50 ft, slow",
+  "kind": "example",
+  "section": "construction",
+  "key": "mac-fhwa-rcnm-table"
+ },
+ {
+  "db": 90.0,
+  "metric": "dBA Lmax",
+  "name": "Hoe ram",
+  "detail": "at 50 ft, slow",
+  "kind": "example",
+  "section": "construction",
+  "key": "mac-fhwa-rcnm-table"
+ },
+ {
+  "db": 84.0,
+  "metric": "dBA Lmax",
+  "name": "Chain saw",
+  "detail": "at 50 ft, slow",
+  "kind": "example",
+  "section": "construction",
+  "key": "mac-fhwa-rcnm-table"
+ },
+ {
+  "db": 82.0,
+  "metric": "dBA Lmax",
+  "name": "Vacuum street sweeper",
+  "detail": "at 50 ft, slow",
+  "kind": "example",
+  "section": "construction",
+  "key": "mac-fhwa-rcnm-table"
+ },
+ {
+  "db": 81.0,
+  "metric": "dBA Lmax",
+  "name": "Construction generator",
+  "detail": "at 50 ft, slow",
+  "kind": "example",
+  "section": "hums",
+  "key": "mac-fhwa-rcnm-table"
+ },
+ {
+  "db": 76.0,
+  "metric": "dBA Lmax",
+  "name": "Dump truck",
+  "detail": "at 50 ft, slow",
+  "kind": "example",
+  "section": "construction",
+  "key": "mac-fhwa-rcnm-table"
+ },
+ {
+  "db": 100.0,
+  "metric": "dBA",
+  "name": "Gas leaf blower",
+  "detail": "at operator's ear (exceeds 100)",
+  "kind": "example",
+  "section": "construction",
+  "key": "mac-finehomebuilding-blowers"
+ },
+ {
+  "db": 77.0,
+  "metric": "dBA",
+  "name": "Gas leaf blower (loudest of 3 models)",
+  "detail": "at 50 ft, 2018 study; range 67-77",
+  "kind": "example",
+  "section": "construction",
+  "key": "mac-finehomebuilding-blowers"
+ },
+ {
+  "db": 67.0,
+  "metric": "dBA",
+  "name": "Electric leaf blower (loudest of 4 models)",
+  "detail": "at 50 ft, 2018 study; range 57-67",
+  "kind": "example",
+  "section": "construction",
+  "key": "mac-finehomebuilding-blowers"
+ },
+ {
+  "db": 70.0,
+  "metric": "dBA",
+  "name": "Power plant cooling tower (up to)",
+  "detail": "within 400 ft, gas-fired power plants (EESI)",
+  "kind": "example",
+  "section": "hums",
+  "key": "mac-eesi-data-centers"
+ },
+ {
+  "db": 140.0,
+  "metric": "dBC peak",
+  "name": "Concert front row",
+  "detail": "ground-stacked subwoofers, peaks topped this",
+  "kind": "example",
+  "section": "nightlife",
+  "key": "ngt-prosoundweb-who-standard"
+ },
+ {
+  "db": 103.0,
+  "metric": "dBA Leq (5+ min)",
+  "name": "Loud end of engineer mix levels",
+  "detail": "a handful of engineers, briefly during encores",
+  "kind": "example",
+  "section": "nightlife",
+  "key": "ngt-prosoundweb-who-standard"
+ },
+ {
+  "db": 142.2,
+  "metric": "dBA (record)",
+  "name": "Loudest stadium crowd roar",
+  "detail": "Arrowhead Stadium, 2014; distance not published",
+  "kind": "example",
+  "section": "nightlife",
+  "key": "ngt-guinness-crowd"
+ },
+ {
+  "db": 105.0,
+  "metric": "dB (weighting not stated)",
+  "name": "Cicada cluster",
+  "detail": "about 1,000 insects; distance not given",
+  "kind": "example",
+  "section": "nature",
+  "key": "ngt-audiology-cicadas"
+ },
+ {
+  "db": 106.0,
+  "metric": "dBA peak",
+  "name": "Leaf blower, groundskeeper peak",
+  "detail": "2016 North Carolina study, operator exposure, distance not given",
+  "kind": "example",
+  "section": "rules",
+  "key": "rul-wiki-leaf-blower"
+ },
+ {
+  "db": 89.0,
+  "metric": "dBA average",
+  "name": "Leaf blower, groundskeeper average",
+  "detail": "2016 North Carolina study, operator exposure, distance not given",
+  "kind": "example",
+  "section": "rules",
+  "key": "rul-wiki-leaf-blower"
+ },
+ {
+  "db": 55.0,
+  "metric": "dB Lden",
+  "name": "EU noise map reporting threshold",
+  "detail": "24-hour, with evening and night penalties",
+  "kind": "limit",
+  "section": "rules",
+  "key": "rul-eea-noise-policy"
+ },
+ {
+  "db": 122.0,
+  "metric": "dBA",
+  "name": "Ambulance siren",
+  "detail": "at 10 ft outside the vehicle (NIOSH 1985)",
+  "kind": "example",
+  "section": "sirens",
+  "key": "sig-niosh-heta-84-493"
+ },
+ {
+  "db": 105.0,
+  "metric": "dBA",
+  "name": "Ambulance siren, upper reading",
+  "detail": "at 100 ft outside the vehicle (range 98-105)",
+  "kind": "example",
+  "section": "sirens",
+  "key": "sig-niosh-heta-84-493"
+ },
+ {
+  "db": 109.0,
+  "metric": "dBA",
+  "name": "Ambulance siren, roof speakers",
+  "detail": "at the driver's position",
+  "kind": "example",
+  "section": "sirens",
+  "key": "sig-niosh-heta-84-493"
+ },
+ {
+  "db": 87.0,
+  "metric": "dBA",
+  "name": "Ambulance siren, grille speakers",
+  "detail": "at the driver's position",
+  "kind": "example",
+  "section": "sirens",
+  "key": "sig-niosh-heta-84-493"
+ },
+ {
+  "db": 60.0,
+  "metric": "dBA",
+  "name": "EV warning sound meeting FMVSS 141, lower",
+  "detail": "at 30 km/h, overall level, 4-band compliance option (range 60-64)",
+  "kind": "example",
+  "section": "signals",
+  "key": "sig-fr-fmvss141-2018"
+ },
+ {
+  "db": 106.0,
+  "metric": "dBA Lmax",
+  "name": "Highest NYC subway platform reading (2006)",
+  "detail": "on platform",
+  "kind": "example",
+  "section": "transit",
+  "key": "trf-sciencedaily-gershon"
+ },
+ {
+  "db": 102.1,
+  "metric": "dBA Lmax",
+  "name": "NYC subway platform peak (2009)",
+  "detail": "on platform",
+  "kind": "example",
+  "section": "transit",
+  "key": "trf-uw-neitzel"
+ },
+ {
+  "db": 100.0,
+  "metric": "dB(A)",
+  "name": "Rail curve squeal, upper level",
+  "detail": "at 10 m",
+  "kind": "example",
+  "section": "transit",
+  "key": "trf-uic-curve-squeal"
+ },
+ {
+  "db": 95.0,
+  "metric": "dBA",
+  "name": "Inside NYC subway cars, average maximum (2006)",
+  "detail": "in car",
+  "kind": "example",
+  "section": "transit",
+  "key": "trf-sciencedaily-gershon"
+ },
+ {
+  "db": 94.0,
+  "metric": "dBA",
+  "name": "NYC subway platforms, average maximum (2006)",
+  "detail": "on platform",
+  "kind": "example",
+  "section": "transit",
+  "key": "trf-sciencedaily-gershon"
+ },
+ {
+  "db": 80.4,
+  "metric": "dBA average",
+  "name": "NYC subway, average measured level (2009)",
+  "detail": "dosimeter readings on platforms and in cars",
+  "kind": "example",
+  "section": "transit",
+  "key": "trf-uw-neitzel"
+ },
+ {
+  "db": 92.7,
+  "metric": "dBA",
+  "name": "Scooter caught by French noise radar",
+  "detail": "normalized to 7.6 m",
+  "kind": "example",
+  "section": "traffic",
+  "key": "trf-bruitparif-2022"
+ },
+ {
+  "db": 67.0,
+  "metric": "dBA Leq(h)",
+  "name": "FHWA Noise Abatement Criteria, homes",
+  "detail": "exterior, hourly",
+  "kind": "limit",
+  "section": "traffic",
+  "key": "trf-nhdot-noise-policy"
+ }
+]
