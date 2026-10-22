@@ -2,7 +2,7 @@
 
 > A cited field guide to city noise: what decibels mean, how loud is too loud, noise rules and quiet hours, sirens, traffic, trains, planes, construction, hums, nightlife, birds and how to measure or report noise. Boston is the worked example.
 
-A cited field guide (307 sources, about 42,664 words) to the sound of a city: what decibels mean, what noise does to hearing, sleep and health, who makes noise rules, the history of city noise, sirens and alarms, traffic, trains and subways, aircraft and flight paths, construction and leaf blowers, hums and mystery noises, designed sounds such as crosswalk beeps and EV warning sounds, nightlife and concert levels, urban birds and soundscapes, and how to measure noise and find quiet. Boston is the worked example.
+A cited field guide (307 sources, about 42,828 words) to the sound of a city: what decibels mean, what noise does to hearing, sleep and health, who makes noise rules, the history of city noise, sirens and alarms, traffic, trains and subways, aircraft and flight paths, construction and leaf blowers, hums and mystery noises, designed sounds such as crosswalk beeps and EV warning sounds, nightlife and concert levels, urban birds and soundscapes, and how to measure noise and find quiet. Boston is the worked example.
 
 ## Pages
 - [The guide, start here](https://noise.cold.fyi/)
